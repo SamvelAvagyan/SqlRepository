@@ -1,0 +1,5 @@
+C:\Users\Acer\source\repos\SqlRepository\Mic.VetEducation.SqlRepository\Mic.VetEducation.Repository\bin\Debug\netstandard2.0\Mic.VetEducation.Repository.deps.json
+C:\Users\Acer\source\repos\SqlRepository\Mic.VetEducation.SqlRepository\Mic.VetEducation.Repository\bin\Debug\netstandard2.0\Mic.VetEducation.Repository.dll
+C:\Users\Acer\source\repos\SqlRepository\Mic.VetEducation.SqlRepository\Mic.VetEducation.Repository\obj\Debug\netstandard2.0\Mic.VetEducation.Repository.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\SqlRepository\Mic.VetEducation.SqlRepository\Mic.VetEducation.Repository\obj\Debug\netstandard2.0\Mic.VetEducation.Repository.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SqlRepository\Mic.VetEducation.SqlRepository\Mic.VetEducation.Repository\obj\Debug\netstandard2.0\Mic.VetEducation.Repository.AssemblyInfo.cs
